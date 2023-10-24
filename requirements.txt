@@ -1,0 +1,6 @@
+pyrogram
+tgcrypto
+azure-cognitiveservices-speech as speechsdk
+requests
+time
+tempfile
